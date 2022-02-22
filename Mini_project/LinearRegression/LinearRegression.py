@@ -9,10 +9,10 @@ from sklearn import linear_model
 
 # Read and Clean data
 
-df_train = pd.read_csv("F:/Portfolio_Projects/Linear_Regression/archive/train.csv")
+df_train = pd.read_csv("https://github.com/TalalAsmal/DataScience_Portfolio/blob/31ba5f653d4f63d7e54d5830c5f479f51422eaac/Mini_project/LinearRegression/train.csv?raw=true")
 df_train = df_train.dropna()
 
-df_test = pd.read_csv("F:/Portfolio_Projects/Linear_Regression/archive/test.csv")
+df_test = pd.read_csv("https://github.com/TalalAsmal/DataScience_Portfolio/blob/31ba5f653d4f63d7e54d5830c5f479f51422eaac/Mini_project/LinearRegression/test.csv?raw=true")
 df_test = df_test.dropna()
 
 # Assign key variables
