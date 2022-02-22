@@ -1,3 +1,3 @@
 👋🏾 Hello, once more!
 
-This mini-project consisted of finding the price of a house based on its area.
+This mini-project consisted of finding the income per capita in US$ of Canada in the year 2020
