@@ -13,7 +13,7 @@ from sklearn.model_selection import cross_val_score
 
 # Load Dataset
 
-df = pd.read_csv("F:\Portfolio_Projects\Cricket\Dataset\Third_Innings_Test_Declarations.csv")
+df = pd.read_csv("https://github.com/TalalAsmal/DataScience_Portfolio/blob/51429651c458ca4e44c9c3f9d5fd8bd29fac79b9/Projects/Cricket/Third_Innings_Test_Declarations.csv?raw=true")
 
 # Clean Data
 
